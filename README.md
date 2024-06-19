@@ -9,5 +9,6 @@
 
 ### Concepts Covered:
 
-1. createSlice 
-2. Configuring multiple reducers
+- Redux Toolkit
+  - createSlice()
+  - Configuring multiple reducers
